@@ -1,0 +1,21 @@
+Source: vimprobable1
+Section: web
+Priority: extra
+Maintainer: Axel Beckert <abe@debian.org>
+Build-Depends: debhelper (>= 7.0.50~), libgtk2.0-dev, libwebkit-dev, libsoup2.4-dev
+Standards-Version: 3.9.1
+Homepage: http://vimprobable.org/
+#Vcs-Git: git://git.debian.org/collab-maint/vimprobable1.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/vimprobable1.git;a=summary
+
+Package: vimprobable1
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: webkit-based web browser with vim-like behaviour
+ Vimprobable is a WWW browser that behaves like the Vimperator plugin
+ available for Mozilla Firefox. It is based on the WebKit engine
+ (using GTK bindings). It is a fork of the currently abandoned
+ Vimpression.
+ .
+ The goal of Vimprobable is to build a WWW browser which has minimum
+ features.

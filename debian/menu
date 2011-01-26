@@ -1,0 +1,2 @@
+?package(vimprobable1):needs="X11" section="Applications/Network/Web Browsing"\
+  title="Vimprobable 1" command="/usr/bin/vimprobable"

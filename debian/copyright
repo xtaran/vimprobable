@@ -1,0 +1,53 @@
+This work was packaged for Debian by:
+
+    Axel Beckert <abe@debian.org> on Wed, 26 Jan 2011 03:45:31 +0100
+
+It was downloaded from:
+
+    http://vimprobable.org/get/vimprobable1_current.tar.bz2
+
+Upstream Author(s):
+
+    Leon Winter <lwi@ring0.de>
+    Hannes Schueller <hannes@yllr.net>
+    Matto Fransen <matto@matto.nl>
+    Hans-Peter Deifel <hpdeifel@gmx.de>
+    Thomas Adam <thomas@xteddy.org>
+
+Copyright:
+
+    Copyright (C) 2009 Leon Winter
+    Copyright (C) 2009-2010 Hannes Schueller
+    Copyright (C) 2009-2010 Matto Fransen
+    Copyright (C) 2010 Hans-Peter Deifel
+    Copyright (C) 2010 Thomas Adam
+
+License:
+
+    Permission is hereby granted, free of charge, to any person
+    obtaining a copy of this software and associated documentation
+    files (the "Software"), to deal in the Software without
+    restriction, including without limitation the rights to use, copy,
+    modify, merge, publish, distribute, sublicense, and/or sell copies
+    of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be
+    included in all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+    NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+    HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+    WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+    DEALINGS IN THE SOFTWARE.
+
+
+The Debian packaging is:
+
+    Copyright (C) 2011 Axel Beckert <abe@debian.org>
+
+and is licensed under the GPL version 2,
+see "/usr/share/common-licenses/GPL-2".
